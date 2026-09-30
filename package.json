@@ -1,0 +1,9 @@
+{
+  "name": "kirvano-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Receptor seguro de webhooks da Kirvano para Vercel",
+  "engines": {
+    "node": ">=20"
+  }
+}
